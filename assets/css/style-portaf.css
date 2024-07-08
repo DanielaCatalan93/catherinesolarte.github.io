@@ -15,7 +15,7 @@
 
 /* Imagen de fondo, ajustada a su tamaño y posición en bg-image */
 .bg-image {
-  background-image: url(../img/fondov-1.png);
+  background-image: url(../img/fondo-cv.jpg);
   height: 35rem;
   background-position: center;
   background-size: cover;
